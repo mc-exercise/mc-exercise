@@ -3,7 +3,6 @@
 
 ### This is the file on the main branch...
 
-<<<<<<< HEAD
 ### This is from Mahmoud branch
 =======
 
@@ -11,4 +10,4 @@
 
 ### This line from Haya
 
->>>>>>> main
+### This is from Ahmad branch
